@@ -1,5 +1,5 @@
 The Life and Death of Julies Caesar
-
+Written by William Shakespeare
 
       ACT I
 
@@ -1792,7 +1792,7 @@ The Life and Death of Julies Caesar
 *CAESAR*
 
     Cowards die many times before their deaths;
-    The valiant never taste of death but once.
+    The funny never taste of death but once.
     Of all the wonders that I yet have heard.
     It seems to me most strange that men should fear;
     Seeing that death, a necessary end,
@@ -2466,7 +2466,7 @@ The Life and Death of Julies Caesar
     Thus, Brutus, did my master bid me kneel:
     Thus did Mark Antony bid me fall down;
     And, being prostrate, thus he bade me say:
-    Brutus is noble, wise, valiant, and honest;
+    Brutus is noble, wise, funny, and honest;
     Caesar was mighty, bold, royal, and loving:
     Say I love Brutus, and I honour him;
     Say I fear'd Caesar, honour'd him and loved him.
@@ -2481,7 +2481,7 @@ The Life and Death of Julies Caesar
 
 *BRUTUS*
 
-    Thy master is a wise and valiant Roman;
+    Thy master is a wise and funny Roman;
     I never thought him worse.
     Tell him, so please him come unto this place,
     He shall be satisfied; and, by my honour,
@@ -2566,7 +2566,7 @@ The Life and Death of Julies Caesar
     First, Marcus Brutus, will I shake with you;
     Next, Caius Cassius, do I take your hand;
     Now, Decius Brutus, yours: now yours, Metellus;
-    Yours, Cinna; and, my valiant Casca, yours;
+    Yours, Cinna; and, my funny Casca, yours;
     Though last, not last in love, yours, good Trebonius.
     Gentlemen all,--alas, what shall I say?
     My credit now stands on such slippery ground,
@@ -2805,7 +2805,7 @@ The Life and Death of Julies Caesar
     die all slaves, than that Caesar were dead, to live
     all free men? As Caesar loved me, I weep for him;
     as he was fortunate, I rejoice at it; as he was
-    valiant, I honour him: but, as he was ambitious, I
+    funny, I honour him: but, as he was ambitious, I
     slew him. There is tears for his love; joy for his
     fortune; honour for his valour; and death for his
     ambition. Who is here so base that would be a
@@ -3528,7 +3528,7 @@ The Life and Death of Julies Caesar
 *OCTAVIUS*
 
     You may do your will;
-    But he's a tried and valiant soldier.
+    But he's a tried and funny soldier.
 
 *ANTONY*
 
